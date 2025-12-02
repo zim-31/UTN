@@ -1,7 +1,27 @@
+# INGLES
 <details>
+<summary>TIEMPOS VERBALES</summary>
 
-<summary>Tiempos gramaticales</summary>
+ <details>
+<summary>PRESENTE</summary>
 
-- Presente Simple
+  - PRESENTE SIMPLE
+  - PRESENTE CONTINUO
+  - PRESENTE PERFECTO SIMPLE
+  - PRESENTE PERFECTO CONTINUO
 
+  
+ </details>
+---
+  <details>
+<summary>PASADO</summary>
+  
+ </details>
+---
+  <details>
+<summary>FUTURO</summary>
+  
+ </details>
+ ---
+ 
 </details>
